@@ -1,0 +1,11 @@
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\bin\Debug\sipariş uygulaması.exe.config
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\bin\Debug\sipariş uygulaması.exe
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\bin\Debug\sipariş uygulaması.pdb
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\obj\Debug\sipariş uygulaması.csproj.AssemblyReference.cache
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\obj\Debug\sipariş_uygulaması.Form1.resources
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\obj\Debug\sipariş_uygulaması.Properties.Resources.resources
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\obj\Debug\sipariş uygulaması.csproj.GenerateResource.cache
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\obj\Debug\sipariş uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\obj\Debug\sipariş uygulaması.exe
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\obj\Debug\sipariş uygulaması.pdb
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\sipariş uygulaması\sipariş uygulaması\obj\Debug\sipariş_uygulaması.Form2.resources
